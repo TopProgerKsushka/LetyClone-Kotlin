@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   fill="none"
+   viewBox="0 0 164 32"
+   version="1.1"
+   id="svg163"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview165"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="7.9512195"
+     inkscape:cx="79.044479"
+     inkscape:cy="14.08589"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg163" />
+  <defs
+     id="defs157" />
+  <path
+     fill="#1976d2"
+     fill-rule="evenodd"
+     d="m 55.6,6.3 -1.6,9 V 16 c 0,1.3 1,2.3 2.5,2.3 1.3,0 2.6,-0.8 2.8,-2.4 L 61,6.3 h 6.5 l -3,17 c -1,5.7 -5,8.7 -10,8.7 -3.4,0 -7,-1.3 -9.5,-4.2 l 3.7,-4.4 0.8,0.7 c 1.5,1.2 3,2.1 5,2.1 1.8,0 3.1,-0.8 3.6,-3 v -0.7 c -1.266844,0.862494 -2.767509,1.316183 -4.3,1.3 -4,0 -6.5,-2.8 -6.5,-6.3 l 0.2,-2 1.6,-9.2 z m -33,0 c 5.3,0 8.5,3.8 8.5,8.1 0,1.4 -0.4,2.8 -0.8,3.8 H 18.5 c 0.6,1.5 2,2.1 4,2.1 1.760862,-0.01829 3.485672,-0.501234 5,-1.4 l 2,4.3 c -2.207538,1.611544 -4.86685,2.486318 -7.6,2.5 -6,0 -9.9,-3.9 -9.9,-9.1 C 12,10.9 16.7,6.3 22.6,6.3 Z M 9.6,0 l -1,6.7 -1,5.4 -0.9,5.2 v 0.8 c 0,1.6 1.3,2 3.6,2 h 1.5 l -1,5.4 -2.3,0.2 c -3.6,0 -8.4,-1 -8.4,-6.4 0,-0.6 0,-1.3 0.2,-2 L 1.3,12.1 3.1,0 Z M 43,0 42,6.3 h 4.9 l -1,5.3 h -5 l -1,5.7 v 0.8 c 0,1.6 1.3,2 3.7,2 H 45 l -1,5.4 -2.3,0.2 c -3.6,0 -8.4,-1 -8.4,-6.4 l 0.1,-2 1,-5.7 h -2.8 l 0.9,-5.3 h 2.9 L 36.6,0 Z M 22.3,11.3 c -1.6,0 -3,1 -3.6,2.8 h 6.5 c 0,-1.8 -1.4,-2.8 -3,-2.8 z"
+     clip-rule="evenodd"
+     id="path159"
+     sodipodi:nodetypes="ccssccccscccscccccccssccccccssccccsscccsccccccccccsscccccccccccccccc" />
+  <path
+     d="m 151.97025,6.2723925 c 5.3,0 8.5,3.8000005 8.5,8.1000005 0,1.4 -0.4,2.8 -0.8,3.8 h -11.8 c 0.6,1.5 2,2.1 4,2.1 1.76086,-0.01829 3.48567,-0.501234 5,-1.4 l 2,4.3 c -2.20754,1.611544 -4.86685,2.486318 -7.6,2.5 -6,0 -9.90001,-3.9 -9.90001,-9.1 0,-5.7 4.70001,-10.3000005 10.60001,-10.3000005 z m -0.3,5.0000005 c -1.6,0 -3,1 -3.6,2.8 h 6.5 c 0,-1.8 -1.4,-2.8 -3,-2.8 z"
+     style="clip-rule:evenodd;fill:#fcd31b;fill-rule:evenodd;fill-opacity:1"
+     id="path3435" />
+  <path
+     d="m 95.585578,-0.14754633 -1,6.69999993 -1,5.4000004 -0.9,5.2 v 0.8 c 0,1.6 1.3,2 3.6,2 h 1.5 l -1,5.4 -2.3,0.2 c -3.6,0 -8.399996,-1 -8.399996,-6.4 0,-0.6 0,-1.3 0.2,-2 l 1,-5.2 1.8,-12.10000033 z"
+     style="clip-rule:evenodd;fill:#fcd31b;fill-opacity:1;fill-rule:evenodd"
+     id="path3468" />
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.3054px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Italic';fill:#fcd31b;fill-opacity:1;stroke-width:0.857635"
+     x="66.490463"
+     y="25.234013"
+     id="text3547"><tspan
+       sodipodi:role="line"
+       id="tspan3545"
+       x="66.490463"
+       y="25.234013"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Italic';stroke-width:0.857635">c</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:33.6367px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Italic';fill:#fcd31b;fill-opacity:1;stroke-width:1.05115"
+     x="97.158653"
+     y="25.189636"
+     id="text3739"><tspan
+       sodipodi:role="line"
+       id="tspan3737"
+       x="97.158653"
+       y="25.189636"
+       style="font-size:33.6367px;stroke-width:1.05115">o</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.6947px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Italic';fill:#fcd31b;fill-opacity:1;stroke-width:1.08421"
+     x="118.0122"
+     y="25.782207"
+     id="text3743"><tspan
+       sodipodi:role="line"
+       id="tspan3741"
+       x="118.0122"
+       y="25.782207"
+       style="stroke-width:1.08421">n</tspan></text>
+</svg>
